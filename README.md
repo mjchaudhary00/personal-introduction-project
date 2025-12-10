@@ -1,54 +1,110 @@
+<!-- ===================================================== -->
+<!--                     PROJECT HEADER                     -->
+<!-- ===================================================== -->
+
+<h1 align="center">🌟 Week 1 — Python Personal Introduction Project 🌟</h1>
+<h3 align="center">A Structured 5-Day Python Learning Build by <strong>Mehul J. Chaudhary</strong></h3>
+
+<p align="center">
+  <img src="screenshot.png" width="520" alt="Program Output Screenshot">
+</p>
 
 ---
 
-## Features
+<!-- ===================================================== -->
+<!--                       BUTTON SET                       -->
+<!-- ===================================================== -->
 
-- Interactive collection of 6 user fields:
-  - Name
-  - Age (validated as integer)
-  - City
-  - Favourite hobby
-  - Favourite food
-  - Dream travel destination
-- Clean, symmetrical console output using f-strings
-- Notebook with inline explanations and cell-by-cell execution
-- PDF and visual assets for presentation or submission
-- MIT license included for easy reuse
+<p align="center">
 
----
+  <!-- LinkedIn -->
+  <a href="https://www.linkedin.com/in/chaudharymehul/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin" alt="LinkedIn Profile">
+  </a>
 
-## Five-Day Breakdown
+  <!-- Python Script -->
+  <a href="personal_intro.py" target="_blank">
+    <img src="https://img.shields.io/badge/Download-Python%20Script-green?style=for-the-badge&logo=python" alt="Download Script">
+  </a>
 
-**Day 1 — Setup & Hello World**
-- Install Python
-- Set up environment or Jupyter
-- Create the initial script and confirm runtime with a `print("Hello World")`
+  <!-- Notebook -->
+  <a href="Mehul_Chaudhary_Week_1_Task.ipynb" target="_blank">
+    <img src="https://img.shields.io/badge/Open-Jupyter%20Notebook-orange?style=for-the-badge&logo=jupyter" alt="Open Notebook">
+  </a>
 
-**Day 2 — Adding Input**
-- Introduce `input()` and variable assignment
-- Collect basic values: name, age, city
+  <!-- PDF -->
+  <a href="Mehul_Chaudhary_Week_1_Task.pdf" target="_blank">
+    <img src="https://img.shields.io/badge/View-PDF%20Report-red?style=for-the-badge&logo=adobeacrobatreader" alt="View PDF">
+  </a>
 
-**Day 3 — Output Formatting**
-- Use f-strings
-- Clean console formatting and separators
-
-**Day 4 — Enhancements**
-- Add more questions (hobby, favorite food, dream place)
-- Improve message tone and structure
-
-**Day 5 — Finalize & Deliver**
-- Polish code, add comments, export notebook to PDF
-- Produce visual artifacts (mind map and infographic)
-- Create README and prepare files for submission
+</p>
 
 ---
 
-## Installation & Requirements
+<!-- ===================================================== -->
+<!--                        BADGES                          -->
+<!-- ===================================================== -->
 
-This project targets standard Python 3.x. There are no external packages required for the core script.
+<p align="center">
+  <img src="https://img.shields.io/badge/Python-3.10+-blue.svg">
+  <img src="https://img.shields.io/badge/Status-Completed-brightgreen.svg">
+  <img src="https://img.shields.io/badge/Notebook-Jupyter-orange.svg">
+  <img src="https://img.shields.io/badge/License-MIT-yellow.svg">
+</p>
 
-**Minimum requirements**
-- Python 3.8 or later
-- (Optional) Jupyter Notebook / JupyterLab to run the `.ipynb` file
+---
 
-**requirements.txt** (project uses no external packages; keep file for formality)
+# 📑 Table of Contents
+
+- [Overview](#overview)  
+- [Why This Project Matters](#why-this-project-matters)  
+- [Repository Structure](#repository-structure)  
+- [Features](#features)  
+- [Day-Wise Breakdown](#day-wise-breakdown)  
+- [How to Run](#how-to-run)  
+- [Screenshots](#screenshots)  
+- [Mind Map](#mind-map)  
+- [Infographic](#infographic)  
+- [Final Code Summary](#final-code-summary)  
+- [Learning Outcomes](#learning-outcomes)  
+- [Author](#author)  
+- [Connect](#connect)
+
+---
+
+# 📌 Overview
+
+This repository contains the **Week 1 Python Personal Introduction Program**, developed by **Mehul J. Chaudhary** as a structured 5-day foundational training.
+
+The objective:  
+Build a clean, interactive Python script that collects user details and prints a formatted self-introduction.  
+
+This project includes:
+- Python script  
+- Notebook with explanations  
+- PDF export  
+- Professional visuals (mind map + infographic)  
+- Final polished README for GitHub  
+
+It is structured to mirror real-world professional submission quality.
+
+---
+
+# 🎯 Why This Project Matters
+
+This assignment is designed to show:
+- Clean coding fundamentals  
+- Interactive CLI programming  
+- Documentation quality  
+- Ability to communicate technical work visually  
+- GitHub portfolio presentation  
+
+Good code is important.  
+**Clear documentation is equally important.**
+
+This README demonstrates both.
+
+---
+
+# 📁 Repository Structure
+
