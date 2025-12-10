@@ -1,0 +1,11 @@
+# Week 1 — Personal Introduction Program
+# Environment: Python + Anaconda + Jupyter Notebook
+# This project uses only built-in Python libraries.
+# No third-party packages are required for the personal_intro.py script.
+
+# Python version requirement
+python>=3.8
+
+# Notebook support (required for .ipynb execution)
+jupyter
+
