@@ -1,52 +1,54 @@
 
 ---
 
-# ⭐ Features
+## Features
 
-### ✔ User Input Based  
-Collects:
-- Name  
-- Age  
-- City  
-- Hobby  
-- Favourite food  
-- Dream travel destination  
-
-### ✔ Clean Formatted Output  
-Symmetrical, professional terminal UI.
-
-### ✔ Multi-format Delivery  
-Notebook, Python script, PDF, visuals.
-
-### ✔ Documentation Focused  
-Includes mind map, infographic, structured Day-wise breakdown.
-
-### ✔ Industry-level GitHub Practices  
-Badges, clickable buttons, clean structure, MIT license.
+- Interactive collection of 6 user fields:
+  - Name
+  - Age (validated as integer)
+  - City
+  - Favourite hobby
+  - Favourite food
+  - Dream travel destination
+- Clean, symmetrical console output using f-strings
+- Notebook with inline explanations and cell-by-cell execution
+- PDF and visual assets for presentation or submission
+- MIT license included for easy reuse
 
 ---
 
-# 📆 Five-Day Learning Breakdown
+## Five-Day Breakdown
 
-### **Day 1:**  
-Setup Python, create first script, print messages.
+**Day 1 — Setup & Hello World**
+- Install Python
+- Set up environment or Jupyter
+- Create the initial script and confirm runtime with a `print("Hello World")`
 
-### **Day 2:**  
-Use `input()`, store values in variables.
+**Day 2 — Adding Input**
+- Introduce `input()` and variable assignment
+- Collect basic values: name, age, city
 
-### **Day 3:**  
-Use f-strings for formatted output.
+**Day 3 — Output Formatting**
+- Use f-strings
+- Clean console formatting and separators
 
-### **Day 4:**  
-Enhance formatting, add extra user questions.
+**Day 4 — Enhancements**
+- Add more questions (hobby, favorite food, dream place)
+- Improve message tone and structure
 
-### **Day 5:**  
-Create final version, clean code, documentation, PDFs, visuals, README.
+**Day 5 — Finalize & Deliver**
+- Polish code, add comments, export notebook to PDF
+- Produce visual artifacts (mind map and infographic)
+- Create README and prepare files for submission
 
 ---
 
-# ▶️ How to Run
+## Installation & Requirements
 
-### **1. Run using Python**
-```bash
-python personal_intro.py
+This project targets standard Python 3.x. There are no external packages required for the core script.
+
+**Minimum requirements**
+- Python 3.8 or later
+- (Optional) Jupyter Notebook / JupyterLab to run the `.ipynb` file
+
+**requirements.txt** (project uses no external packages; keep file for formality)
