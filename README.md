@@ -1,35 +1,55 @@
-# 🌟 Week 1 — Python Personal Introduction Project  
-### Author: **Mehul J. Chaudhary**
+<!-- Banner -->
+<h1 align="center">🌟 Week 1 — Python Personal Introduction Program 🌟</h1>
+<h3 align="center">A Structured 5-Day Learning Project by <strong>Mehul J. Chaudhary</strong></h3>
 
-This repository contains the complete Week 1 Python Task:  
-A structured, 5-day learning project where we build a **Personal Introduction Program**, strengthen Python fundamentals, and deliver polished documentation.
-
-The project includes:
-- Python script  
-- Jupyter Notebook version  
-- PDF submissions  
-- Mind map  
-- Infographics  
-- Screenshot of program output  
-- Licensing & supporting files  
+<p align="center">
+  <img src="screenshot.png" width="500">
+</p>
 
 ---
 
-## 📘 **Project Overview**
-
-The goal of this project is to build a clean and user-friendly Python program that:
-1. Collects personal details using `input()`
-2. Stores data in variables  
-3. Displays a formatted introduction using **f-strings**
-4. Follows a structured Day-1 to Day-5 learning plan
-
-This project demonstrates:
-- Python basics  
-- Input/output interaction  
-- Code formatting  
-- Documentation and presentation skills  
+<!-- Badges -->
+<p align="center">
+  <img src="https://img.shields.io/badge/Python-3.10+-blue.svg">
+  <img src="https://img.shields.io/badge/Status-Completed-brightgreen.svg">
+  <img src="https://img.shields.io/badge/Notebook-Jupyter-orange.svg">
+  <img src="https://img.shields.io/badge/License-MIT-yellow.svg">
+</p>
 
 ---
 
-## 📂 **Repository Structure**
+# 📑 Table of Contents
+- [Overview](#overview)
+- [Repository Structure](#repository-structure)
+- [Features](#features)
+- [How to Run](#how-to-run)
+- [Screenshots](#screenshots)
+- [Mind Map](#mind-map)
+- [Infographic](#infographic)
+- [Final Code Summary](#final-code-summary)
+- [Learning Outcomes](#learning-outcomes)
+- [License](#license)
+- [Author](#author)
+
+---
+
+# 📌 Overview
+
+This project is the **Week 1 Python Task**, built over five structured learning days.  
+The focus: mastering Python basics through a clean, user-interactive **Personal Introduction Program**.
+
+The program uses:
+- `input()` to collect user information  
+- Variables to store data  
+- `print()` and **f-strings** for formatted output  
+- Clean UI formatting in the console  
+
+It is built with:
+- Python  
+- Jupyter Notebook  
+- Supporting PDFs, mind maps, and infographics  
+
+---
+
+# 📁 Repository Structure
 
