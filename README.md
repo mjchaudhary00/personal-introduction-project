@@ -1,35 +1,35 @@
-# Personal Introduction Program
+# 🌟 Week 1 — Python Personal Introduction Project  
+### Author: **Mehul J. Chaudhary**
 
-This is a simple Python program that asks the user for basic personal details such as:
-- Name
-- Age
-- City
-- Favourite hobby
-- Favourite food
-- Dream travel destination
+This repository contains the complete Week 1 Python Task:  
+A structured, 5-day learning project where we build a **Personal Introduction Program**, strengthen Python fundamentals, and deliver polished documentation.
 
-After collecting this information, the program displays a clean, formatted introduction message.
-
----
-
-## How It Works
-
-1. The program uses `input()` to ask the user a series of questions.
-2. The answers are stored in variables.
-3. A formatted introduction message is printed using f-strings.
+The project includes:
+- Python script  
+- Jupyter Notebook version  
+- PDF submissions  
+- Mind map  
+- Infographics  
+- Screenshot of program output  
+- Licensing & supporting files  
 
 ---
 
-## Files Included
+## 📘 **Project Overview**
 
-- `Mehul_Chaudhary_Week_1_Task.ipynb` — Main Python program
-- `screenshot.png` — Output screenshot (sample program run)
+The goal of this project is to build a clean and user-friendly Python program that:
+1. Collects personal details using `input()`
+2. Stores data in variables  
+3. Displays a formatted introduction using **f-strings**
+4. Follows a structured Day-1 to Day-5 learning plan
+
+This project demonstrates:
+- Python basics  
+- Input/output interaction  
+- Code formatting  
+- Documentation and presentation skills  
 
 ---
 
-## How to Run
-
-1. Install Python 3
-2. Download the file `personal_intro.py`
-3. Run the script with:
+## 📂 **Repository Structure**
 
