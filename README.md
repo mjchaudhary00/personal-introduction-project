@@ -22,7 +22,7 @@ After collecting this information, the program displays a clean, formatted intro
 
 ## Files Included
 
-- `personal_intro.py` — Main Python program
+- `Mehul_Chaudhary_Week_1_Task.ipynb` — Main Python program
 - `screenshot.png` — Output screenshot (sample program run)
 
 ---
